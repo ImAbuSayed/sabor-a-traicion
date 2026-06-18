@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sabor a traición
+
+This log tracks the cryptographic history and versioning for the song **Sabor a traición** (sabor-a-traicion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:49:10.208316 | `v1` | `6c062fb0b6893947b9a6f861b8350f8b89b04373dc3da671dc5c28c3c9e3cd8f` | `44392b884f8ad27b82e18bab90d44908664b0322ec6e78ec9c89172d09e57f84` | `2026-06-18_sabor-a-traicion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
