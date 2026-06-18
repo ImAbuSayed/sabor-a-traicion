@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-traicion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sabor a traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-traicion/) |
+| **Get License** | [Request Licensing for Sabor a traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-traicion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tell me if you want to leave the club with me tonight
+> I can feel the tension when we step into the light
+> You have all the magic that is making me lose control
+> Dancing in the shadows, you are taking over my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
